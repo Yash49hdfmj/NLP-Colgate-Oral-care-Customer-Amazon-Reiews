@@ -1,3 +1,8 @@
+3 Problem Statement
+1.Retail Shelf Space Optimization Challenge
+2.Data Analytics and Insights in the Global Toothpaste Market
+3.NLP Sentiment Analysis and Topic Modeling for Amazon Customer Feedback
+
 Sentiment Analysis of Amazon Oral Care Product Reviews
 
 Overview
